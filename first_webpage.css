@@ -3,22 +3,17 @@
 			height: 100px;
 			width: 100%;
 			text-align: center;
-			/*padding: 15px;*/
 			font-size: 45px;
 			color: #fff;
 			display: flex;
 			justify-content: center;
 			align-items: center;
-
 		}
 		.child{
 			display: flex;
 			*height: 315px;*/
 			justify-content: center;
 			width: 100%;
-			/*padding: 15px;*/
-
-
 		}
 		.child2{
 			background-color: lightgray;
@@ -31,14 +26,12 @@
 		}
 		a{
 			margin:10px;
-
 		}
 		.child3{
 			background-color:#DCDCDC;
 			height: 315px;
 			width: 80%;
 			padding: 15px;
-
 		}
 		.child4{
 			background-color: darkgray;
@@ -47,18 +40,11 @@
 			text-align: center; 
 			color: rgb(255,255,255);
 			font-size: 25px;
-			/*padding: 12px;*/
 			display: flex;
 			justify-content: center;
 			align-items: center;
-		
-
-
 		}
 		.avg{
-
-
-			/*padding: 15px;*/
 			color: #fff;
 		}
 

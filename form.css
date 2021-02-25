@@ -1,9 +1,7 @@
 body{
-				background-color:skyblue;
-
+		background-color:skyblue;
+	}
 	
-				}
-				label,textarea,input,button,select{
-					
-					margin-top: 10px;
-				}
+label,textarea,input,button,select{	
+		margin-top: 10px;
+	}
